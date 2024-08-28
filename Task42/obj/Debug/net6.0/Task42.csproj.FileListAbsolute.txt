@@ -1,0 +1,15 @@
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\bin\Debug\net6.0\Task42.exe
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\bin\Debug\net6.0\Task42.deps.json
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\bin\Debug\net6.0\Task42.runtimeconfig.json
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\bin\Debug\net6.0\Task42.dll
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\bin\Debug\net6.0\Task42.pdb
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.csproj.AssemblyReference.cache
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.AssemblyInfoInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.AssemblyInfo.cs
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.csproj.CoreCompileInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.dll
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\refint\Task42.dll
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.pdb
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\Task42.genruntimeconfig.cache
+c:\Users\Админ\Desktop\C#\Seminar6\Task42\obj\Debug\net6.0\ref\Task42.dll
